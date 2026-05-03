@@ -2,3 +2,5 @@
 
 Name: Aastha
 Roll no: 2210991129
+Project: Comparison-between-Deep-Learning-Models-for-Early-Detection-of-Alzheimer-s-Disease
+Type: Research Paper
